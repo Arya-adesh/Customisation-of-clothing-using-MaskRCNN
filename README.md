@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Arya-adesh
-- 👀 I’m interested in machine learning, competitve coding, web development.
+- 👀 I’m interested in machine learning, competitive coding, web development.
 - 🌱 I’m currently learning machine learning and web development.
 - 💞️ I’m looking to collaborate on macine lerning and web development.
 - 📫 How to reach me 
