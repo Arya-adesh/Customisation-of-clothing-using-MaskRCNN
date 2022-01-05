@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Arya-adesh
 - 👀 I’m interested in machine learning, competitive coding, web development.
 - 🌱 I’m currently learning machine learning and web development.
-- 💞️ I’m looking to collaborate on macine lerning and web development.
+- 💞️ I’m looking to collaborate on machine lerning and web development.
 - 📫 How to reach me 
 - linkedin : www.linkedin.com/in/arya-adesh-01b795182
 - gmail: aryaadesh.cs20@rvce.edu.in
