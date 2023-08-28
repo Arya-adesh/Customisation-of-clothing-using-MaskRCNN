@@ -23,8 +23,5 @@ The proposed architecture for saree image analysis consists of three main steps:
 
 
 the figures illustrates how the application operates. Users can upload saree images through the web application's frontend, built using HTML, CSS, and JavaScript. This frontend serves as an interface for input and result display. The user history includes uploaded and modified saree images, enabling retailers to understand user preferences.
-
-The backend is developed using Flask, a lightweight Python web framework. Flask simplifies web app development with minimal code. It houses various models, such as human detection, background removal, and segmentation models. A model loader on the Flask backend manages model weight loading based on user inputs.
-
 Users have the option to select colors from a palette, enabling personalized color changes for saree components.
 
