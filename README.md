@@ -1,4 +1,4 @@
-## Customisation of Clothings using Deep Learning  
+## Color Customisation of Clothing using Deep Learning  
 
 The proposed architecture for saree image analysis consists of three main steps: human detection and background removal, removal of body and detection of border, and color changing. Here's an overview of how the process works:
 
