@@ -18,10 +18,9 @@ The proposed architecture for saree image analysis consists of three main steps:
 - Saturation and brightness values are maintained.
 
 ### System Architecture:
-![image](https://github.com/Arya-adesh/Customisation-of-clothing-using-MaskRCNN/assets/84959568/0387b8a6-c8f6-40a9-9422-71ad2f9b111d)
+
 ![image](https://github.com/Arya-adesh/Customisation-of-clothing-using-MaskRCNN/assets/84959568/ae063cda-1123-4937-9e11-cef4374f70a8)
 
-
-the figures illustrates how the application operates. Users can upload saree images through the web application's frontend, built using HTML, CSS, and JavaScript. This frontend serves as an interface for input and result display. The user history includes uploaded and modified saree images, enabling retailers to understand user preferences.
+the figure illustrates how the application operates. 
 Users have the option to select colors from a palette, enabling personalized color changes for saree components.
 
